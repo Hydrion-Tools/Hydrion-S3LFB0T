@@ -32,7 +32,7 @@ Follow these steps to set up and run your selfbot.
 ### 1️⃣ Clone the Repository  
 
 ```bash  
-git clone https://github.com/Hydradevx/Hydrion-S3LFB0T.git  
+git clone https://github.com/Hydrion-Tools/Hydrion-S3LFB0T.git  
 cd Hydrion-S3LFB0T  
 ```  
 
