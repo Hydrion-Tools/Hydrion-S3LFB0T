@@ -1,4 +1,3 @@
-const { AsyncResource } = require("async_hooks");
 const Discord = require("discord.js-selfbot-v13");
 const fs = require("fs");
 const settings = JSON.parse(fs.readFileSync("./settings.json", "utf8"));
